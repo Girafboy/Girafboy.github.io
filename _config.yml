@@ -1,4 +1,15 @@
 theme: jekyll-theme-architect
+# Site settings
+title: 探秘山西落后之源          # 你的博客网站标题
+SEOTitle: Girafboy         # 在后面会详细谈到
+description: "上海交通大学探秘山西落后之源实践团"    # 随便说点，描述一下
+
+# SNS settings      
+github_username: girafboy   # 你的github账号
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values

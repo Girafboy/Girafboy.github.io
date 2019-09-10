@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="https://v.qq.com/x/page/m0924e642ng.html" type="video/mp4">
+      <source id="mp4" src="https://39.107.101.41/video.mp4" type="video/mp4">
 </video>
 ## 概述
 有这样一个地方，它西与陕西相望，南与河南接壤；有这样一个地方，它地缘五岭淳朴之黄，天承三晋睿智之商；有这样一个地方，它吞吐日月纳钱财入仓房，包容万物聚地利蕴盛唐。自春秋成霸业，到大唐君临天下，再到煤炭大量入市煤老板豪掷千金、晋商用足迹丈量神州版图，山西始终以骄傲的姿态在历史长河各阶段熠熠生光。但纵有古迹遍布，纵有煤炭招财，如今的山西却发展势头疲软，不似过往辉煌。山西的问题存在于经济、政治、文化等各方面。

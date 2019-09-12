@@ -50,6 +50,6 @@ tagline: Supporting tagline
 
 ## 我可以做什么？
 - 持续关注我们，了解我们的进展
-- 通过填写[问卷](https://www.wjx.cn/m/43473420.aspx)，向我们反馈你眼中的山西
-- 把我们的[推送](https://b.xiumi.us/board/v5/3cPiJ/164592886)让更多亲朋好友看到
+- 通过填写 [问卷](https://www.wjx.cn/m/43473420.aspx) ，向我们反馈你眼中的山西
+- 把我们的 [推送](https://b.xiumi.us/board/v5/3cPiJ/164592886) 让更多亲朋好友看到
 - 加入我们，向我们发送邮件，提供你的建议
